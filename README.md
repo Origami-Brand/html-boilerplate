@@ -1,4 +1,4 @@
-# HTML Boilerplate
+# :rocket:	HTML Boilerplate
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -35,7 +35,7 @@ npm run dev
 
 Your development server will be running at http://localhost:3000.
 
-# Directory Structure
+## Directory Structure
 
 - `src/`: Contains the source files for your project.
 - `index.html`: Main HTML file with file includes for better organization.
